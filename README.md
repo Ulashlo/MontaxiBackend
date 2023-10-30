@@ -1,2 +1,2 @@
-# MontaxiBackend
-REST API for MonTaxi application
+# TaxiAndTransferNetwork
+REST API for TaxiAndTransferNetwork application
